@@ -17,4 +17,13 @@
 - Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 8. Focuses on Functionality and User Experience:
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+## Key elements in wireframing
+## 🔑 Key Elements of a Wireframe
+
+| Element            | Definition                                                                 | Contribution to Design                                               | Examples                                                                 |
+|--------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Layout Structure** | Defines the arrangement of elements on the page.                          | Organizes visual flow and space; supports a consistent user experience. | - Grid system for header, body, sidebar, footer. <br> - Logo placed top-left. <br> - CTAs placed above the fold. |
+| **Navigation**       | Shows how users will move through the site or application.                | Helps users explore easily and understand site structure.             | - Top nav bar with "Home, Services, Contact". <br> - Hamburger menu for mobile. <br> - Breadcrumbs for page hierarchy. |
+| **Content Placement**| Indicates where text, images, and other content will be positioned.       | Enhances readability, content flow, and emphasis on key information.   | - Hero section with title + CTA. <br> - Product image on left, description on right. <br> - Testimonials below main content. |
+| **Functionality**    | Outlines key functionalities and interactions.                            | Guides interaction behavior and highlights interactive components.     | - Search bars with filters. <br> - Form fields and buttons with hover/active states. <br> - Sliders and dropdown menus. |
 
