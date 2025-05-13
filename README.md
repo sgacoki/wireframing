@@ -26,4 +26,17 @@
 | **Navigation**       | Shows how users will move through the site or application.                | Helps users explore easily and understand site structure.             | - Top nav bar with "Home, Services, Contact". <br> - Hamburger menu for mobile. <br> - Breadcrumbs for page hierarchy. |
 | **Content Placement**| Indicates where text, images, and other content will be positioned.       | Enhances readability, content flow, and emphasis on key information.   | - Hero section with title + CTA. <br> - Product image on left, description on right. <br> - Testimonials below main content. |
 | **Functionality**    | Outlines key functionalities and interactions.                            | Guides interaction behavior and highlights interactive components.     | - Search bars with filters. <br> - Form fields and buttons with hover/active states. <br> - Sliders and dropdown menus. |
+## Types of Wireframes
+### Low-Fidelity vs High-Fidelity Wireframes
+
+| 🔍 Feature/Aspect           | 📝 Low-Fidelity Wireframes                                                                 | 🎨 High-Fidelity Wireframes                                                               |
+|-----------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| **Definition**              | Simple sketches or basic digital layouts focusing on structure and functionality.          | Detailed and refined layouts closer to the final UI design.                              |
+| **Design Detail**           | Minimal — often black-and-white boxes, placeholder text (e.g., "Image", "Title").          | High detail — includes typography, spacing, color, and actual content.                   |
+| **Purpose**                 | Brainstorming, structure planning, getting early feedback.                                 | Finalizing design, presenting to stakeholders, preparing for development.                |
+| **Tools Used**              | Paper & pen, Balsamiq, whiteboards, wireframing tools like Figma (basic mode).             | Figma, Adobe XD, Sketch (with design systems and UI kits).                               |
+| **Speed & Flexibility**     | Very quick to create and easy to change.                                                    | More time-consuming but gives a realistic preview.                                       |
+| **User Testing Suitability**| Good for testing basic flow and layout.                                                     | Suitable for testing usability, visual hierarchy, and interaction behavior.              |
+| **Used By**                 | Designers, product managers, developers during early stages.                               | Designers, clients, developers during later stages or handoff.                           |
+| **When to Use**             | Early in the design process — ideation, planning, low-cost iteration.                       | Later in the design process — approval, usability testing, and development handoff.       |
 
