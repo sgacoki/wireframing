@@ -39,4 +39,5 @@
 | **User Testing Suitability**| Good for testing basic flow and layout.                                                     | Suitable for testing usability, visual hierarchy, and interaction behavior.              |
 | **Used By**                 | Designers, product managers, developers during early stages.                               | Designers, clients, developers during later stages or handoff.                           |
 | **When to Use**             | Early in the design process — ideation, planning, low-cost iteration.                       | Later in the design process — approval, usability testing, and development handoff.       |
-
+![types of wireframe](https://github.com/sgacoki/wireframing/blob/main/wireframe%20types.png)
+[Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=JGLQq8FZaTJdk7G7-0)
