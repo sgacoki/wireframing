@@ -41,3 +41,27 @@
 | **When to Use**             | Early in the design process — ideation, planning, low-cost iteration.                       | Later in the design process — approval, usability testing, and development handoff.       |
 ![types of wireframe](https://github.com/sgacoki/wireframing/blob/main/wireframe%20types.png)
 [Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=JGLQq8FZaTJdk7G7-0)
+## Popular Wireframing Tools
+
+Choosing the right wireframing tool can make the design process smoother, more collaborative, and efficient. Below are some of the most commonly used tools:
+
+| Tool       | Description                                                                 |
+|------------|-----------------------------------------------------------------------------|
+| *Figma*  |  Cloud-based design tool ideal for wireframing, UI design, and prototyping. Offers real-time collaboration, reusable components, and easy sharing. |
+| *Balsamiq*   | Quick and simple tool for creating low-fidelity, sketch-style wireframes. Great for early ideation. |
+| *Adobe XD*   | Versatile tool for designing and prototyping user experiences. Suitable for high-fidelity wireframes. |
+| *Sketch*     | Popular macOS app for UI/UX design. Offers robust vector editing and plugins for wireframing. |
+| *Wireframe.cc* | Minimalist online tool for creating clean and simple wireframes quickly. |
+| *Lucidchart* | Diagramming and wireframing tool with drag-and-drop elements. Good for flowcharts and user flows. |
+
+### 🌟 Recommended: **Figma**
+
+Figma is highly recommended due to its:
+- **Real-Time Collaboration** – Multiple users can work together simultaneously.
+- **Cloud-Based Access** – No software installation required; work from any device.
+- **Design & Prototyping in One** – Build interactive prototypes from your wireframes.
+- **Reusable Components** – Use components and styles for consistent design.
+- **Developer Handoff** – Inspect, export, and share designs easily with developers.
+
+Whether you're creating quick low-fidelity sketches or detailed high-fidelity mockups, **Figma adapts to your workflow** and supports seamless iteration.
+
